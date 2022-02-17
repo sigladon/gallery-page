@@ -1,0 +1,17 @@
+:root {
+/*-- Font Size --*/
+    --user-name: 2.4rem;
+    --user-location: 1.4rem;
+    --stats-number: 1.8rem;
+    --stats-type: 1.4rem;
+    --footer: 1.4rem;
+}
+
+.photos {
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 100%;
+    padding: 0 16em;
+}
+
+
